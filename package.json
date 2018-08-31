@@ -1,0 +1,23 @@
+{
+  "name": "pennyroyal-tea",
+  "version": "1.0.0",
+  "description": "Simple Node.js server that accepts GET requests at localhost:8080",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peteriscaurs/pennyroyal-tea.git"
+  },
+  "keywords": [
+    "node",
+    "http"
+  ],
+  "author": "Pēteris Čaurs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peteriscaurs/pennyroyal-tea/issues"
+  },
+  "homepage": "https://github.com/peteriscaurs/pennyroyal-tea#readme"
+}
